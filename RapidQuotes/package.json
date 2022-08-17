@@ -1,0 +1,17 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@developed",
+  "license": "ISC",
+  "dependencies": {
+    "array-flatten": "^3.0.0",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "telegraf": "^4.8.3"
+  }
+}
